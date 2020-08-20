@@ -2,7 +2,6 @@
 """
 Created on Mon Aug 10 10:34:35 2020
 
-@author: AXZQ
 """
 import re
 import os
