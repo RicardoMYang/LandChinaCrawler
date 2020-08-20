@@ -2,7 +2,6 @@
 """
 Created on Thu Aug  6 15:50:07 2020
 
-@author: AXZQ
 """
 import time
 import random
