@@ -2,7 +2,6 @@
 """
 Created on Sat Aug  8 17:38:19 2020
 
-@author: AXZQ
 """
 
 import time
